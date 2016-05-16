@@ -1,0 +1,7 @@
+<cacti>	
+	<hash_020023e958c0a85b090800ecb1ce8f995c7015>
+		<name>FreeSWITCH</name>
+		<graph_templates>hash_000023e334bdcf821cd27270a4cc945e80915e|hash_0000235107ec0206562e77d965ce6b852ef9d4|hash_00002300404f89bd84da54edcc03727c0e29ca|hash_00002306a64341e5cba9f46cbff9439ba76e51|hash_000023ac541bc5ae6d5e2caf383c7372194488</graph_templates>
+		<data_queries>hash_040023d75e406fdeca4fcef45b8be3a9a63cbc|hash_0400239343eab1f4d88b0e61ffc9d020f35414</data_queries>
+	</hash_020023e958c0a85b090800ecb1ce8f995c7015>
+</cacti>
