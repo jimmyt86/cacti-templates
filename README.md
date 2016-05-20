@@ -4,6 +4,9 @@ Custom created graph templates. Relased to save someone else the time.
 
 Currently included here are Cacti graphs for FreeSWITCH
 
+![FreeSWITCH graphs]
+(FreeSWITCH-cacti-graphs.PNG)
+
 ## Install Instructions - Option 1
 Host Templates contain all the individual graphs templates in a single file
 
